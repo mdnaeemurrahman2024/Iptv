@@ -45,9 +45,11 @@ http://172.32.1.88:1935/tvprogram/EKHON/playlist.m3u8
 #EXTINF:-1,GREEN-TV
 http://stream2.sunplex.live/GREEN-TV/index.m3u8
 #EXTINF:-1,Star Jalsha
-http://tv.cloudcdn.me/live.ts?channelId=116592&uid=9592&deviceMac=00:1A:79:82:85:F0
+https://tv5.hoichoi24.com/1406/tracks-v1a1/mono.m3u8?
+#EXTINF:-1,Star Jalsha Hd
+http://tv.mototvlive.net:8880/live/salman/salman/1562.m3u8
 #EXTINF:-1,ZEE-BANGLA
-http://172.32.1.88:1935/tvprogram/ZEE-BANGLA/playlist.m3u8
+http://103.109.56.116/live/funtime111/index.m3u8
 #EXTINF:-1,ZEE-BANGLA HD
 http://tv.cloudcdn.me/live.ts?channelId=120&uid=9592&deviceMac=00:1A:79:82:85:F0
 #EXTINF:-1,ZEE-BANGLA-CHINEMA
@@ -139,11 +141,15 @@ http://103.149.142.133/0.m3u8
 #EXTINF:-1,AnandaTV
 http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
 #EXTINF:-1,NICK
+https://bldcmprod-cdn.toffeelive.com/cdn/live/nick/playlist.m3u8
+#EXTINF:-1,NICK
 http://103.109.56.116/live/funtime110/index.m3u8
 #EXTINF:-1,Sonic
 https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=sonic
 #EXTINF:-1,Sony-Yay
 https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=sony-yay-live
+#EXTINF:-1,Sony-Yay-Hindi
+http://mag.premiumplus.tv/play/live.php?mac=00:1A:79:61:4F:5D&stream=156089&extension=ts
 #EXTINF:-1,GUBBARE
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1,ZOO-MOO
@@ -156,10 +162,28 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 http://103.131.214.129:9985/stream/channelid/952379108.ts?ticket=F9788485A4BE9B20D5C2BB2A9C176B113D6E8AB6&profile=pass
 #EXTINF:-1,HANGAMAA
 http://103.131.214.129:9985/stream/channelid/387666878.ts?ticket=47008A6FE90C547283C25473F330A1A40EA2147F&profile=pass
+#EXTINF:-1,Wow kids
+http://195.26.87.217/live.ts?channelId=91169&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1,Wow comedy
+http://xtv.ooo:8080/live/T4S00515/820172/311774.ts
+#EXTINF:-1,Wow Kids Action
+http://xtv.ooo:8080/live/T4S00515/820172/314753.ts
+#EXTINF:-1,Shiva
+http://xtv.ooo:8080/live/T4S00515/820172/342074.ts
+#EXTINF:-1,Motu Patlu
+http://xtv.ooo:8080/live/415663775/826262627/307079.ts
+#EXTINF:-1,CN
+http://startv365.com/9794783213/6955630461/400159905
+#EXTINF:-1,CID
+http://xtv.ooo:8080/live/T4S00515/820172/340873.ts
+#EXTINF:-1,Crime petrol
+http://xtv.ooo:8080/live/T4S00515/820172/340875.ts
 #EXTINF:-1,MR.BEAN
 https://da.gd/mrbnfreetv
-#EXTINF:-1,TOM & JERRY
+#EXTINF:-1,TOM & JERRY clasic
 https://da.gd/tmjrfreetv
+#EXTINF:-1,TOM & JERRY
+http://xtv.ooo:8080/live/T4S00515/820172/347942.ts
 #EXTINF:-1,DOREMON
 http://humiptv.live:8080/live/wasim/wasim1234/147746.ts
 #EXTINF:-1,CartoonNetwork
@@ -182,8 +206,12 @@ https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
 #EXTINF:-1,ISLAM ENGLISH
 https://live.islamchannel.tv/live7/islamtv_english/bitrate1.isml/live.m3u8
+#EXTINF:-1,PeaceTV Bangla
+http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 #EXTINF:-1,PeaceTV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1,Tarabi Namaj sikkha
+https://yczmsg.sn.files.1drv.com/y4mRmk_TfFlRMZr8pQL7mmlh9ntzx4U4MJnaWfa1s1c-_sM6QBgmLTT0qeYPt5RN211y7I1AKE1W0RvRpXL4n6aAEdsNbg6_WmW47vqjiJzlph7qph-4fOc7mGV-WUUwaR5S9zG8uAStkgssnu1sAwJMeWb2zP1lEaRClN3kMgnvRrDEvLOV2K6PRDGIayzsOywyQ7lW-PdU5Sph266ungGDQ
 #EXTINF:-1,9X JHAKASS
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1,9X Tashan
@@ -196,149 +224,39 @@ https://catowrap.live/mrgamingcric.m3u8
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
 #EXTINF:-1,IPTV T-SPORTS
 http://xtv.ooo:8080/T4S00515/820172/167590
-#EXTINF:-1,Edusat 4
-http://59.103.181.178:8000/play/a07n/index.m3u8
-#EXTINF:-1,Maasranga TV HD
-http://59.103.181.178:8000/play/a06v/index.m3u8
-#EXTINF:-1,KBS World
-http://59.103.181.178:8000/play/a07t/index.m3u8
-#EXTINF:-1,Sharddha TV
-http://59.103.181.178:8000/play/a07a/index.m3u8
-#EXTINF:-1,NTV ITAHARI
-http://59.103.181.178:8000/play/a06z/index.m3u8
-#EXTINF:-1,Edusat 1
-http://59.103.181.178:8000/play/a07k/index.m3u8
-#EXTINF:-1,Polimer
-http://59.103.181.178:8000/play/a07r/index.m3u8
-#EXTINF:-1,RAJ MUSX KANADA
-http://59.103.181.178:8000/play/a06l/index.m3u8
-#EXTINF:-1,Maasranga TV HD
-http://59.103.181.178:8000/play/a069/index.m3u8
-#EXTINF:-1,RAJ MUSIX TELUGU
-http://59.103.181.178:8000/play/a06n/index.m3u8
-#EXTINF:-1,Chithiram
-http://59.103.181.178:8000/play/a07q/index.m3u8
-#EXTINF:-1,Zing
-http://59.103.181.178:8000/play/a07p/index.m3u8
-#EXTINF:-1,Edusat 5
-http://59.103.181.178:8000/play/a07o/index.m3u8
-#EXTINF:-1,Edusat 3
-http://59.103.181.178:8000/play/a07m/index.m3u8
-#EXTINF:-1,DP Education
-http://59.103.181.178:8000/play/a07j/index.m3u8
-#EXTINF:-1,Galaxy4K
-http://59.103.181.178:8000/play/a074/index.m3u8
-#EXTINF:-1,RAJ NEWS MALAYALAM
-http://59.103.181.178:8000/play/a06p/index.m3u8
-#EXTINF:-1,The Buddhist
-http://59.103.181.178:8000/play/a076/index.m3u8
-#EXTINF:-1,NEXUS TV ENC1
-http://59.103.181.178:8000/play/a06d/index.m3u8
-#EXTINF:-1,RAJ NEWS TELUGU
-http://59.103.181.178:8000/play/a06o/index.m3u8
-#EXTINF:-1,Freesat 23
-http://59.103.181.178:8000/play/a07b/index.m3u8
-#EXTINF:-1,RAJ MUSIX MALAYALAM
-http://59.103.181.178:8000/play/a06q/index.m3u8
-#EXTINF:-1,Prime Times
-http://59.103.181.178:8000/play/a072/index.m3u8
-#EXTINF:-1,KBS Korea
-http://59.103.181.178:8000/play/a07u/index.m3u8
-#EXTINF:-1,Freesat 30
-http://59.103.181.178:8000/play/a07i/index.m3u8
-#EXTINF:-1,SOMOY TV HD
-http://59.103.181.178:8000/play/a06b/index.m3u8
-#EXTINF:-1,Rangiri Sri Lanka
-http://59.103.181.178:8000/play/a078/index.m3u8
-#EXTINF:-1,Meth TV
-http://59.103.181.178:8000/play/a07d/index.m3u8
-#EXTINF:-1,Freesat 24
-http://59.103.181.178:8000/play/a07c/index.m3u8
-#EXTINF:-1,CHANNEL NINE BD
-http://59.103.181.178:8000/play/a06i/index.m3u8
-#EXTINF:-1,KANTIPUR HD CINEPLEX
-http://59.103.181.178:8000/play/a06u/index.m3u8
-#EXTINF:-1,VISSA TV
-http://59.103.181.178:8000/play/a06k/index.m3u8
-#EXTINF:-1,T SPORTS HD> SKY FEED
-http://103.109.56.116/live/skyfeed1005/index.m3u8
-#EXTINF:-1,T SPORTS HD> HOICOI24
-http://114.130.96.165:8080/1101/tracks-v1a1/index.m3u8
-#EXTINF:-1,GAZI TV HD
-http://114.130.96.165:8080/1102/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1,GAZI TV HD > HOICOI
-http://114.130.96.165:8080/1102/tracks-v1a1/index.m3u8
-#EXTINF:-BTV HD
-http://114.130.96.165:8080/1114/tracks-v1a1/index.m3u8
-#EXTINF:-1,BTV WORLD
-http://114.130.96.165:8080/1127/tracks-v1a1/index.m3u8
-#EXTINF:-1,STAR JALSHA(yupp Tv)
-https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
-#EXTINF:-1,ZEE BANFLA
-http://103.109.56.116/live/funtime111/index.m3u8
-#EXTINF:-1,SONY ART
-http://103.109.56.116/live/skyfeed1016/index.m3u8
-#EXTINF:-1,SONY TEN1HD
-http://114.130.96.165:8080/1021/tracks-v1a1/index.m3u8
-#EXTINF:-1,SONY TEN2HD
-http://114.130.96.165:8080/1020/tracks-v1a1/index.m3u8
-#EXTINF:-1,SONY TEN3HD
-http://114.130.96.165:8080/1012/tracks-v1a1/index.m3u8
-#EXTINF:-1,SONY TEN5HD
-http://114.130.96.165:8080/1015/tracks-v1a1/index.m3u8
-#EXTINF:-1,STAR SPORT1HD
-http://114.130.96.165:8080/1006/tracks-v1a1/index.m3u8
-#EXTINF:-1,SATR SPORT1SD
-http://114.130.96.165:8080/1014/tracks-v1a1/index.m3u8
-#EXTINF:-1,STAR SPORT2HD
-http://114.130.96.165:8080/1007/tracks-v1a1/index.m3u8
-#EXTINF:-1,PTV SPORTS
-http://114.130.96.165:8080/1507/tracks-v1a1/index.m3u8
-#EXTINF:-1,NICK BANGLA SD
-http://103.109.56.116/live/funtime110/index.m3u8
-#EXTINF:-1,ENTER 10 BANGLA SD
-http://xtv.ooo:8080/MansoorWapda/258741/104202
-#EXTINF:-1,STAR PLUS HD
-http://xtv.ooo:8080/MansoorWapda/258741/66166
-#EXTINF:-1,INDEPENDENT TV
-http://114.130.96.165:8080/1107/tracks-v1a1/index.m3u8
-#EXTINF:-1,GAAN BANGLA
-http://114.130.96.165:8080/1110/tracks-v1a1/index.m3u8
-#EXTINF:-1,NAGORIK TV
-http://114.130.96.165:8080/1113/tracks-v1a1/index.m3u8
-#EXTINF:-1,ANANDA TV
-http://114.130.96.165:8080/1117/tracks-v1a1/index.m3u8
-#EXTINF:-1,DESH TV SD
-http://114.130.96.165:8080/1121/tracks-v1a1/index.m3u8
-#EXTINF:-1,MASRANGA TV HD
-http://114.130.96.165:8080/1122/tracks-v1a1/index.m3u8
-#EXTINF:-1,CHANNEL 9
-http://114.130.96.165:8080/1124/tracks-v1a1/index.m3u8
-#EXTINF:-1,MY TV
-http://114.130.96.165:8080/1132/tracks-v1a1/index.m3u8
-#EXTINF:-1,ATN NEWS HD
-http://114.130.96.165:8080/1134/tracks-v1a1/index.m3u8
-#EXTINF:-1,NTV
-http://114.130.96.165:8080/1135/tracks-v1a1/index.m3u8
-#EXTINF:-1,ASIAN TV
-http://114.130.96.165:8080/1139/tracks-v1a1/index.m3u8
-#EXTINF:-1, NEWS 24 HD
-http://103.109.56.116/live/funtime109/index.m3u8 
-#EXTINF:-1,Jamuna tv
-http://103.109.56.116/live/skyfeed1021/index.m3u8
-#EXTINF:-1,Akattor tv 
-http://103.109.56.116/live/skyfeed1015/index.m3u8
-#EXTINF:-1,Indipendet tv
-http://103.109.56.116/live/skyfeed1012/index.m3u8
-#EXTINF:-1,BANGLA VISHON HD
-http://103.109.56.116/live/skyfeed1009/index.m3u8 
-#EXTINF:-1,Pogo SD
-http://103.109.56.116/live/skyfeed1019/index.m3u8
-#EXTINF:-1,SUN TV SD
-http://5c4277131f30.yourlistbest.net/playlists/uplist/00e6cc99bec80d5fbaa1848c8ca55622/playlist.m3u8
-#EXTINF:-1,Gazi tv HD Sky feed
-http://103.109.56.116/live/skyfeed1006/index.m3u8
-#EXTINF:-1,CN SD
-https://i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8
-#EXTINF:-1,Zee anmol
-http://sansat.net:88/02029761595924/9d089925dc60a821/96258
+#EXTINF:-1,Movie 1
+http://xtv.ooo:8080/T4S00515/820172/253596
+#EXTINF:-1,Movie 2
+http://xtv.ooo:8080/T4S00515/820172/253597
+#EXTINF:-1,Movie 3
+http://xtv.ooo:8080/T4S00515/820172/253598
+#EXTINF:-1,Movie 4
+http://xtv.ooo:8080/T4S00515/820172/263386
+#EXTINF:-1,Movie 5
+http://xtv.ooo:8080/T4S00515/820172/263387
+#EXTINF:-1,Movie 6
+http://xtv.ooo:8080/T4S00515/820172/263388
+#EXTINF:-1,Movie 7
+http://xtv.ooo:8080/T4S00515/820172/263389
+#EXTINF:-1,Movie 8
+http://xtv.ooo:8080/T4S00515/820172/263390
+#EXTINF:-1,Movie 9
+http://xtv.ooo:8080/T4S00515/820172/263391
+#EXTINF:-1,Movie 10
+http://xtv.ooo:8080/T4S00515/820172/263392
+#EXTINF:-1,Movie 11
+http://xtv.ooo:8080/T4S00515/820172/263395
+#EXTINF:-1,Movie 12
+http://xtv.ooo:8080/T4S00515/820172/263396
+#EXTINF:-1,Movie 13
+http://xtv.ooo:8080/T4S00515/820172/362986
+#EXTINF:-1,Movie 14
+http://xtv.ooo:8080/T4S00515/820172/362987
+#EXTINF:-1,Movie 15
+http://xtv.ooo:8080/T4S00515/820172/362988
+#EXTINF:-1,Bhojpuri Movie
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1,Crime Movie 
+https://da.gd/crmmfreetv
+
+
