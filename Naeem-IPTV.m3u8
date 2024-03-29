@@ -44,6 +44,8 @@ http://172.32.1.88:1935/tvprogram/MTV/playlist.m3u8
 http://172.32.1.88:1935/tvprogram/EKHON/playlist.m3u8
 #EXTINF:-1,GREEN-TV
 http://stream2.sunplex.live/GREEN-TV/index.m3u8
+#EXTINF:-1,Asian-tv-hd
+https://bongohub.pw/api/bdsajib/bioscopebd.m3u8?id=asian-tv-hd
 #EXTINF:-1,Star Jalsha
 https://tv5.hoichoi24.com/1406/tracks-v1a1/mono.m3u8?
 #EXTINF:-1,Star Jalsha Hd
@@ -57,11 +59,13 @@ http://tv.cloudcdn.me/live.ts?channelId=120&uid=9592&deviceMac=00:1A:79:82:85:F0
 #EXTINF:-1,ZEE-BANGLA-CHINEMA
 https://s1.bongohub.pw/hoichoi.m3u8?id=1401
 #EXTINF:-1,colors-bangla
-https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=colors-bangla
+https://bongohub.pw/api/bdsajib/bioscopebd.m3u8?id=colors-bangla
 #EXTINF:-1,colors-bangla HD
 http://tv.cloudcdn.me/live.ts?channelId=92&uid=9592&deviceMac=00:1A:79:82:85:F0
 #EXTINF:-1,SONY-AATH
 https://s1.bongohub.pw/hoichoi.m3u8?id=1409
+#EXTINF:-1,SONY-AATH
+https://bongohub.pw/api/bdsajib/bioscopebd.m3u8?id=sony-aath-live
 #EXTINF:-1,ENTER-10
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1,Discovery-BANGLA
