@@ -146,14 +146,28 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://103.149.142.133/0.m3u8
 #EXTINF:-1,AnandaTV
 http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
+#EXTINF:-1,Bongo_Movies
+https://live.bongobd.com/hls/L5WnHxe1gJph6SYNGp9YEQ/1711789660/bongo_movies_88a3.m3u8
+#EXTINF:-1,Bongo_Drama
+https://live.bongobd.com/hls/nYYP6wMp0qrj8ePM8732tA/1711790274/bongo_drama.m3u8
+#EXTINF:-1,Nhk-world
+https://live.bongobd.com/hls/9xopj-OVNHm95Ea13__YXA/1711789904/sky-nhk-world.m3u8
+#EXTINF:-1,Lotus-macau
+https://live.bongobd.com/hls/AhCfM7Jx9um-MfhnebCALQ/1711789978/sky-lotus-macau.m3u8
+#EXTINF:-1,Eeuro-news
+https://live.bongobd.com/hls/k6Og1nk-ZJXh1S0VM2mfhA/1711790104/sky-eeuro-news.m3u8
+#EXTINF:-1,DBC News
+https://live.bongobd.com/hls/WxIXGP858mjI8aIW4lsPnQ/1711790222/sky-dbc-news.m3u8
+#EXTINF:-1,Ftv
+https://live.bongobd.com/hls/SOO76IURXVxB2g3mc4CaZA/1711790050/ftv.m3u8
 #EXTINF:-1,NICK
-https://bldcmprod-cdn.toffeelive.com/cdn/live/nick/playlist.m3u8
+https://himel-op.top/api/hoichoi.m3u8?id=1305
 #EXTINF:-1,NICK
 http://103.109.56.116/live/funtime110/index.m3u8
 #EXTINF:-1,Sonic
 https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=sonic
 #EXTINF:-1,Sony-Yay
-https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=sony-yay-live
+https://himel-op.top/api/bioop.m3u8?id=sony-yay-live
 #EXTINF:-1,Sony-Yay-Hindi
 http://mag.premiumplus.tv/play/live.php?mac=00:1A:79:61:4F:5D&stream=156089&extension=ts
 #EXTINF:-1,GUBBARE
@@ -180,10 +194,6 @@ http://xtv.ooo:8080/live/T4S00515/820172/342074.ts
 http://xtv.ooo:8080/live/415663775/826262627/307079.ts
 #EXTINF:-1,CN
 http://startv365.com/9794783213/6955630461/400159905
-#EXTINF:-1,CID
-http://xtv.ooo:8080/live/T4S00515/820172/340873.ts
-#EXTINF:-1,Crime petrol
-http://xtv.ooo:8080/live/T4S00515/820172/340875.ts
 #EXTINF:-1,MR.BEAN
 https://da.gd/mrbnfreetv
 #EXTINF:-1,TOM & JERRY clasic
@@ -198,6 +208,10 @@ https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
 #EXTINF:-1,Kidscreation
 https://vods1.aynaott.com/kidscreation_test/index.m3u8
+#EXTINF:-1,CID
+http://xtv.ooo:8080/live/T4S00515/820172/340873.ts
+#EXTINF:-1,Crime petrol
+http://xtv.ooo:8080/live/T4S00515/820172/340875.ts
 #EXTINF:-1,Madina
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/madina.stream/live-orgin/madina.stream/chunks.m3u8
 #EXTINF:-1,Atn Islamic tv
@@ -222,14 +236,20 @@ https://yczmsg.sn.files.1drv.com/y4mRmk_TfFlRMZr8pQL7mmlh9ntzx4U4MJnaWfa1s1c-_sM
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1,9X Tashan
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xtashan/default/index.m3u8
+#EXTINF:-1,9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1,S CRICET
 https://catowrap.live/mrgamingsscric.m3u8
 #EXTINF:-1,SKY SPORTS
 https://catowrap.live/mrgamingcric.m3u8
 #EXTINF:-1,ATNINT
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
+#EXTINF:-1,T-SPORTS HoiChoi
+https://himel-op.top/api/hoichoi.m3u8?id=1000
 #EXTINF:-1,IPTV T-SPORTS
 http://xtv.ooo:8080/T4S00515/820172/167590
+#EXTINF:-1,Sangeetbangla
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla/index.m3u8
 #EXTINF:-1,Movie 1
 http://xtv.ooo:8080/T4S00515/820172/253596
 #EXTINF:-1,Movie 2
