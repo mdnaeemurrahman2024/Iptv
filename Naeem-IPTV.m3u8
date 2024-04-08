@@ -194,6 +194,22 @@ https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
 #EXTINF:-1,Kidscreation
 https://vods1.aynaott.com/kidscreation_test/index.m3u8
+#EXTINF:-1,Nick Hindi 
+https://mavenarts.in/jio/app/live/1341/Nick_Bangla/index.m3u8 
+#EXTINF:-1,Sonic
+https://mavenarts.in/jio/app/live/1345/Sonic_Bangla/index.m3u8 
+#EXTINF:-1,Rongeen TV 
+https://mavenarts.in/jio/app/live/1667/Rongeen_TV/index.m3u8 
+#EXTINF:-1,Pogo Kids 
+https://mavenarts.in/jio/app/live/559/Pogo_Hindi/index.m3u8 
+#EXTINF:-1,Cartoon Network
+https://mavenarts.in/jio/app/live/816/Cartoon_Network_Hindi/index.m3u8
+#EXTINF:-1,Discovery Kids 
+https://mavenarts.in/jio/app/live/554/Discovery_Kids_2/index.m3u8 
+#EXTINF:-1,Jio Kids 
+https://mavenarts.in/jio/app/live/1430/Jio_KIDS/index.m3u8 
+#EXTINF:-1,Nick Junior
+https://mavenarts.in/jio/app/live/544/Nick_Junior/index.m3u8
 #EXTINF:-1,CID
 http://xtv.ooo:8080/live/T4S00515/820172/340873.ts
 #EXTINF:-1,Crime petrol
